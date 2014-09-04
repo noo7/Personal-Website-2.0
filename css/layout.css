@@ -774,7 +774,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 /*  Blockquotes */
 #photos blockquote {
     margin: 0 0px 30px 0px;
-    padding-left: 0;
+    padding-left: 23px;
     position: relative;
     text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
 }
@@ -784,15 +784,21 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
     padding: 0;
     font-size: 24px;
     line-height: 48px;
-    color: #fff
+    color: #fff;
+    margin-bottom: 15px;
 }
 #photos blockquote cite {
     display: block;
-    font-size: 12px;
+    font-size: 13px;
     font-style: normal;
-    line-height: 18px;
+    line-height: 10px;
     color: #fff;
 }
+
+#photos blockquote img {
+    height: 400px;
+}
+
 #photos blockquote cite:before { content: "\2014 \0020"; }
 #photos blockquote cite a,
 #photos blockquote cite a:visited { color: #8B9798; border: none }
