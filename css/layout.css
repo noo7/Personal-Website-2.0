@@ -209,7 +209,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 }
 
 #about .emp {
-    color: #f1c40f;  /* #f39c12 orange */
+    color:  #f1c60f; /* #f39c12 orange */ 
     font: normal;
 }
 
@@ -217,6 +217,13 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
     color: #fff; 
     border-bottom: 1px dashed #fff;
 }
+
+#about #more {
+    color: blue;
+    border-bottom: none;
+    text-decoration: underline;
+}
+
 #about a:hover, #about a:focus { 
     color: #ff9933; /* #11ABB0 */
     border-bottom: none;
@@ -382,7 +389,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 /* ------------------------------------------------------------------ */
 
 #education {
-    background: #f39c12; /* #fff */
+    background: #2c3e50; /*#000; */ /* #f39c12; */ /* #fff */
     padding-top: 70px;
     padding-bottom: 72px;
     overflow: hidden;
@@ -393,7 +400,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 }
 
 #education a:hover, #education a:focus { 
-    color: #fff; /* #313131 */
+    color: #f1c40f; /* #9b59b6; */ /* #fff; */ /* #313131 */
 }
 
 #education h1 {
@@ -410,7 +417,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 
 #education h3 {
     font: 23px/30px 'opensans-bold', sans-serif;
-    color: #fff;
+    color: #e67e22; /* #fff; */
     margin-bottom: 5px;
 }
 
@@ -444,7 +451,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 
 #education .info {
     font: 16px/24px 'librebaskerville-italic', serif;
-    color: #2980B9; /* #6E7881*/
+    color: #3498db; /* #2980B9; */ /* #6E7881*/
     margin-bottom: 5px;
     margin-top: 5px;
 
@@ -465,6 +472,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 
 #education ul li {
     margin-bottom: 5px;
+    color: #fff;
 }
 
 
@@ -696,9 +704,11 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
     text-transform: uppercase;
     letter-spacing: 3px;
     cursor: pointer;
+    margin-right: 24px;
+
 }
 .popup-modal a:hover {	color: #00CCCC; }
-.popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+.popup-modal a.popup-modal-dismiss { margin-left: 0px; }
 
 
 /* fadein/fadeout effect for modal popup

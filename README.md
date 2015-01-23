@@ -16,4 +16,8 @@ This means that you are free:
 Inspired by Stylehout CEEVEE Design (http://www.styleshout.com/).  
 Modified and Redesigned by Xiaodan Zhang (http://www.xiaodanzhang.com).
 
-© Xiaodan Zhang 2014 All Rights reserved.
+Updates:
+1/22/2015 Personal-Website-2.0.1: Added some latest news, 4 projects and several photos; fixed some typos; updated the resume.  
+
+© Xiaodan Zhang 2014-2015 All Rights reserved.
+
