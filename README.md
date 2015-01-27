@@ -17,7 +17,7 @@ Inspired by Stylehout CEEVEE Design (http://www.styleshout.com/).
 Modified and Redesigned by Xiaodan Zhang (http://www.xiaodanzhang.com).
 
 Updates:
-1/22/2015 Personal-Website-2.0.1: Added some latest news, 4 projects and several photos; fixed some typos; updated the resume.  
+1/22/2015 Personal-Website-2.0.1: Added some latest news, 4 projects and several photos; fixed some typos and changed some CSS contents; updated the resume.  
 
 © Xiaodan Zhang 2014-2015 All Rights reserved.
 
