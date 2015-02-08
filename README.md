@@ -18,7 +18,7 @@ Modified and Redesigned by Xiaodan Zhang (http://www.xiaodanzhang.com).
 
 Updates:  
 1/22/2015 Personal-Website-2.0.1: Added some latest news, 4 projects and several photos; fixed some typos and changed some CSS contents; updated the resume.  
-2/8/2015  Added a small fb like button.  
+2/8/2015  Added a small fb like button as an iframe.  
 
 © Xiaodan Zhang 2015 All Rights reserved.
 
